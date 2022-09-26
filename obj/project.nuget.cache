@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iR+XmO7drKT9R7Yd4s+TP79UdLLkUzDMUKsaK4t7JwzvCbPyMeApIUiYLaXfHRXOq5REPtbm6QHMvBPL1eK+3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stark\\Desktop\\StaticFiles.Mvc\\Avtotest.Mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stark\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
